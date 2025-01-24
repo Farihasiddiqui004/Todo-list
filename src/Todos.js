@@ -1,5 +1,5 @@
-import React, { useReducer, useMemo, useCallback } from "react";
 import "./Todos.css";
+import React, { useReducer, useMemo, useCallback } from "react";
 
 const initialTodos = [
   {
